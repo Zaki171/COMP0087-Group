@@ -1,2 +1,11 @@
 venv
-gpt2_nl_training
+gpt2_nl_training/__pycache__
+gpt2_nl_training/data
+gpt2_nl_training/new_test2
+gpt2_nl_training/new_test
+gpt2_nl_training/logs
+gpt2_nl_training/old_test
+gpt2_nl_training/results
+gpt2_nl_training/results2
+gpt2_nl_training/gpt2_nl_training.py
+gpt2_nl_training/icl.py

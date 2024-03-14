@@ -1,0 +1,21 @@
+Prompt: ### Question: Q:A 15-year-old man presents with his father to the urgent care with 5 days of frequent diarrhea, occasionally with streaks of blood mixed in. Stool cultures are pending, but preliminary stool samples demonstrate fecal leukocytes and erythrocytes. His vital signs are as follows: blood pressure is 126/83 mm Hg, heart rate is 97/min, and respiratory rate is 15/min. He is started on outpatient therapy for presumed Shigella infection. Which of the following is the most appropriate therapy?? 
+{'A': 'IV erythromycin', 'B': 'Oral metronidazole', 'C': 'Oral vancomycin', 'D': 'Oral doxycycline', 'E': 'Oral TMP-SMX'}, 
+ ###Targets: E: Oral TMP-SMX### Question: Q:An 8-year-old boy is brought to the pediatrician because his mother is concerned about recent behavioral changes. His mother states that she has started to notice that he is slurring his speech and seems to be falling more than normal. On exam, the pediatrician observes the boy has pes cavus, hammer toes, and kyposcoliosis. Based on these findings, the pediatrician is concerned the child has a trinucleotide repeat disease. Which of the following trinucleotide repeats is this child most likely to possess?? 
+{'A': 'CGG', 'B': 'GAA', 'C': 'CAG', 'D': 'CTG', 'E': 'GCC'}, 
+ ###Targets:
+
+Pred:  E: Oral TMP-SMX### Question: A 6-year-old boy is brought to the pediatrician because his mother is concerned about recent behavioral changes. His mother states that she has started to notice that he is slurring his speech and seems to be falling more than normal. On exam, the pediatrician observes the boy has pes cavus, hammer toes, and kyposcoliosis. Based on these findings, the pediatrician is concerned the child has a trinucleotide repeat disease. Which of the following trinucleotide repeats is this child most likely to possess?? 
+{'A': 'CGG', 'B': 'GAA', 'C': 'CAG', 'D': 'CTG', 'E': 'GCC'}, 
+
+###Targets: E: Oral TMP-SMX### Question: A 6-year-old boy is brought to the pediatrician because his mother is concerned about recent behavioral changes. His mother states that she has started to notice that he is slurring his speech and seems to be falling more than normal. On exam, the pediatrician observes the boy has pes cavus, hammer toes, and kyposcoliosis. Based on these findings, the pediatrician is concerned the child has a trinucleotide repeat disease. Which of the following trinucleotide repeats is this child most likely to possess?? 
+{'A': 'CGG', 'B': 'GAA', 'C': 'CAG', 'D': 'CTG', 'E': 'GCC'}, 
+
+###Targets: E: Oral TMP-SMX### Question: A 6-year-old boy is brought to the pediatrician because his mother is concerned about recent behavioral changes. His mother states that she has started to notice that he is slurring his speech and seems to be falling more than normal. On exam, the pediatrician observes the boy has pes cavus, hammer toes, and kyposcoliosis. Based on these findings, the pediatrician is concerned the child has a trinucleotide repeat disease. Which of the following trinucleotide repeats is this child most likely to possess?? 
+{'A': 'CGG', 'B': 'GAA', 'C': 'CAG', 'D': 'CTG', 'E': 'GCC'}, 
+
+###Targets: E: Oral TMP-SMX### Question: A 6-year-old boy is brought to the pediatrician because his mother is concerned about recent behavioral changes. His mother states that she has started to notice that he is slurring his speech and seems to be falling more than normal. On exam, the pediatrician observes the boy has pes cavus, hammer toes, and kyposcoliosis. Based on these findings, the pediatrician is concerned the child has a trinucleotide repeat disease. Which of the following trinucleotide repeats is this child most likely to possess?? 
+{'A': 'CGG', 'B': 'GAA', 'C': 'CAG', 'D': 'CTG', 'E': 'GCC'}, 
+
+###Targets: E:
+
+Real: B: GAA
