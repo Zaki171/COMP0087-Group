@@ -131,14 +131,16 @@ TACL-submission anonymization requirements)}
 \begin{document}
 \maketitle
 \begin{abstract}
-  This document contains the formatting requirements for TACL \taclpapers. These
-  formatting rules take effect for all \taclpapers received from September 2, 2018
-  onwards.
+  The extraordinary development of Large Language Models (LLMs) in recent years has prompted research into tuning these complex algorithms 
+  to specific tasks and domain spaces. Of the varied approaches to adapting LLMs, two recent innovations stand out - In-Context Learning 
+  and Instruction Tuning. While both methods have demonstrated remarkable ability in improving performance of models to various circumstances, 
+  they remain starkly different in their approach, and little research has been done on comparing these techniques on the same playing field. This 
+  investigation aims to address this gap by providing a comparative analysis of instruction-tuning and in-context learning for domain-specific 
+  tasks, establishing the ideal approach to be taken in different scenarios.
 \end{abstract}
 
 \iftaclpubformat
-\section{Courtesy warning: Common violations of \taclpaper rules that have
-resulted in papers being returned to authors for corrections}
+\section{Introduction}
 
 Avoid publication delays by avoiding these.
 \begin{enumerate}
@@ -192,42 +194,20 @@ Specifically:
 \end{enumerate}
 \else
 % Submission-specific rules
-\section{Courtesy warning: Common violations of \taclpaper rules that have
-resulted in desk
-rejects}
-\begin{enumerate}
-  \item Violation: wrong paper format.
-  \emph{As of the September 2018 submission round and beyond, TACL requires A4
-  format.  This is a change from the prior paper size.}
+\section{Introduction}
+This investigation provides a comparative evaluation of two recent innovations in 
+the field of LLM improvement - In-Context Learning and Instruction Tuning. Instruction Tuning 
+is a unique type of fine-tuning strategy that revolves around framing prompts as instructions, providing 
+LLMs with specific information on how to proceed with the given task. In comparison, In-Context Learning 
+is an exciting phenomena first discovered in the original GPT3 paper that aims to help models adapt 
+to specific tasks by providing it with labelled examples preceding the task. Evidence 
+from surrounding literature suggests that both approaches are versatile in improving model performance. However,
+the approaches are significantly different from one another, with the most noticeable contrast being 
+the absence of weight-based training in ICL. While this does make ICL generally much more computationally feasible, 
+our current analysis suggests that instruction-tuning remains a superior technique for domain-specific tasks, 
+providing stronger adaptability to perform such tasks effectively.
 
-  \item Violation: main document text smaller than 11pt, or table or figure
-  captions in a font smaller than 10pt. See Table \ref{tab:font-table}.
 
-  \item Violation: fewer than seven pages of content or more than ten pages of
-  content, {\em including} any appendices. (Exceptions are made for
-  re-submissions where a TACL Action Editor explicitly granted a set number of
-  extra pages to address reviewer comments.) See
-  Section \ref{sec:length}.
-  \item Violation: Author-identifying information in the document content or
-  embedded in the file itself.
-    \begin{itemize}
-      \item Advice: Make sure the submitted PDF does \emph{not} embed within it
-      any author info: check the document properties before submitting.
-      Useful tools include Adobe Reader and {\tt pdfinfo}.
-      \item Advice: Check that no URLs (or corresponding websites) inadvertently
-      disclose any author information. If software or data is to be distributed,
-      mention so in {\em anonymized} fashion.
-      \item Advice: Make sure that author names have been omitted
-      from the author block. (It's OK to include some sort of anonymous
-      placeholder.)
-      \item Advice: Do not include acknowledgments in a submission.
-      \item Advice: While citation of one's own relevant prior work is as
-      encouraged as the citation of any other relevant prior work,
-      self-citations should be made in the third, not first, person.
-      No citations should be attributed to ``anonymous'' or the like.
-      See Section \ref{sec:self-cite}.
-    \end{itemize}
-\end{enumerate}
 \fi
 
 

@@ -66,7 +66,7 @@ collator = DataCollatorForCompletionOnlyLM(response_template, tokenizer=tokenize
 training_args = TrainingArguments(
     output_dir='./results2',
     overwrite_output_dir=True,
-    num_train_epochs=2,
+    num_train_epochs=1,
     save_steps=10_000,
     save_total_limit=2,
     logging_dir='./logs',

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.1)  7 MAR 2024 11:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.1)  15 MAR 2024 02:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,159 +265,157 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 132
  (C:\Users\zakit\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 214.
- (C:\Users\zakit\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 216.
- (C:\Users\zakit\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Underfull \hbox (badness 2662) in paragraph at lines 220--223
-\T1/ptm/m/n/10.95 have been omit-ted from the au-thor
+Underfull \hbox (badness 1082) in paragraph at lines 134--140
+[]\T1/ptm/m/n/10 The ex-traor-di-nary de-vel-op-ment of Large
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 246.
+(Font)              <10.95> on input line 226.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 247.
+(Font)              <9> on input line 227.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 247.
+(Font)              <5> on input line 227.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 271.
+(C:\Users\zakit\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 1484) in paragraph at lines 284--284
+\T1/ptm/m/n/9 bib-li-og-ra-phy and you do not wish to di-rectly edit the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
+\T1/pcr/m/n/9 \sloppy\clubpenalty4000\widowpenalty4000
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 270--287
+[]\T1/ptm/m/n/10.95 However, it is known that ci-ta-tions or
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 270--287
+\T1/ptm/m/n/10.95 URLs that cross pages can trig-ger the com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--287
+\T1/ptm/m/n/10.95 pi-la-tion er-ror ``\T1/pcr/m/n/10.95 \pdfendlink ended up
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--287
+\T1/pcr/m/n/10.95 in different nesting level than
+ []
+
 [1{C:/Users/zakit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
 
 ]
-Underfull \hbox (badness 1484) in paragraph at lines 304--304
-\T1/ptm/m/n/9 bib-li-og-ra-phy and you do not wish to di-rectly edit the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--304
-\T1/pcr/m/n/9 \sloppy\clubpenalty4000\widowpenalty4000
- []
-
-
-Underfull \hbox (badness 8075) in paragraph at lines 290--307
-[]\T1/ptm/m/n/10.95 However, it is known that ci-ta-tions or
- []
-
-
-Underfull \hbox (badness 1708) in paragraph at lines 290--307
-\T1/ptm/m/n/10.95 URLs that cross pages can trig-ger the com-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--307
-\T1/ptm/m/n/10.95 pi-la-tion er-ror ``\T1/pcr/m/n/10.95 \pdfendlink ended up
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--307
-\T1/pcr/m/n/10.95 in different nesting level than
- []
-
-
-Underfull \hbox (badness 4739) in paragraph at lines 308--321
+Underfull \hbox (badness 4739) in paragraph at lines 288--301
 []\T1/ptm/m/n/10.95 To dis-able it, add \T1/pcr/m/n/10.95 nohyperref \T1/ptm/m/n/10.95 in the
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 308--321
+Underfull \hbox (badness 4621) in paragraph at lines 288--301
 \T1/ptm/m/n/10.95 square brack-ets to pass that op-tion to the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--321
+Underfull \hbox (badness 10000) in paragraph at lines 288--301
 \T1/ptm/m/n/10.95 TACL pack-age. For ex-am-ple, change
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--321
+Underfull \hbox (badness 10000) in paragraph at lines 288--301
 \T1/pcr/m/n/10.95 \usepackage[]{tacl2021v1} \T1/ptm/m/n/10.95 to
  []
 
 
-Overfull \hbox (13.60109pt too wide) in paragraph at lines 308--321
+Overfull \hbox (13.60109pt too wide) in paragraph at lines 288--301
 \T1/pcr/m/n/10.95 \usepackage[nohyperref]{tacl2021v1}\T1/ptm/m/n/10.95 . 
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 351--356
+Underfull \hbox (badness 2181) in paragraph at lines 331--336
 \T1/ptm/m/n/10.95 Adobe's Times Ro-man font should be used.
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 351--356
+Underfull \hbox (badness 3713) in paragraph at lines 331--336
 \T1/ptm/m/n/10.95 In L[]T[]X2e this is ac-com-plished by putting
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--356
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
 [][]\T1/pcr/m/n/10.95 \usepackage{times,latexsym} []\T1/ptm/m/n/10.95 in the
  []
 
 [2]
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 475.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 455.
  (C:\Users\zakit\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-Overfull \hbox (14.84544pt too wide) in paragraph at lines 473--502
+Overfull \hbox (14.84544pt too wide) in paragraph at lines 453--482
  [][] 
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 585--594
+Underfull \hbox (badness 1824) in paragraph at lines 565--574
 \T1/ptm/m/n/10.95 Citing one's own rel-e-vant prior work should
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 585--594
+Underfull \hbox (badness 4673) in paragraph at lines 565--574
 \T1/ptm/m/n/10.95 be done, but use the third per-son in-stead
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 585--594
+Underfull \hbox (badness 4316) in paragraph at lines 565--574
 \T1/ptm/m/n/10.95 of the first per-son, to pre-serve anonymity:
  []
 
 
-Overfull \hbox (5.91066pt too wide) in paragraph at lines 585--594
+Overfull \hbox (5.91066pt too wide) in paragraph at lines 565--574
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 602--605
+Underfull \hbox (badness 10000) in paragraph at lines 582--585
 []\T1/ptm/m/n/10.95 References to peer-reviewed pub-li-ca-tions
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 602--605
+Underfull \hbox (badness 1383) in paragraph at lines 582--585
 \T1/ptm/m/n/10.95 should be given in ad-di-tion to or in-stead of
  []
 
 
-Package natbib Warning: Citation `Jurafsky+Martin:2009a' on page 3 undefined on input line 615.
+Package natbib Warning: Citation `Jurafsky+Martin:2009a' on page 3 undefined on input line 595.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 600.
+(C:\Users\zakit\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+Package natbib Warning: Citation `DBLP:journals/corr/cs-CL-0108005' on page 3 undefined on input line 610.
 
 
-Package natbib Warning: Citation `DBLP:journals/corr/cs-CL-0108005' on page 3 undefined on input line 630.
+Package natbib Warning: Citation `DBLP:journals/corr/cs-CL-9905001' on page 3 undefined on input line 610.
 
 
-Package natbib Warning: Citation `DBLP:journals/corr/cs-CL-9905001' on page 3 undefined on input line 630.
+Package natbib Warning: Citation `GOODMAN2001403' on page 3 undefined on input line 610.
 
 
-Package natbib Warning: Citation `GOODMAN2001403' on page 3 undefined on input line 630.
+Package natbib Warning: Citation `P99-1010' on page 3 undefined on input line 610.
 
 
-Package natbib Warning: Citation `P99-1010' on page 3 undefined on input line 630.
-
-
-Underfull \hbox (badness 2221) in paragraph at lines 625--632
+Underfull \hbox (badness 2221) in paragraph at lines 605--612
 []\T1/ptm/m/n/10.95 Include the ver-sion num-ber when cit-ing
  []
 
-[3]
-No file tacl2021v1-template.bbl.
+[3] (tacl2021v1-template.bbl)
 
 Package natbib Warning: There were undefined citations.
 
@@ -430,17 +428,17 @@ Package rerunfilecheck Info: File `tacl2021v1-template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9815 strings out of 474718
- 151157 string characters out of 5748457
+ 9813 strings out of 474718
+ 151216 string characters out of 5748457
  1952036 words of memory out of 5000000
- 31692 multiletter control sequences out of 15000+600000
+ 31691 multiletter control sequences out of 15000+600000
  605972 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,11n,93p,474b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,11n,93p,474b,559s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tacl2021v1-template.pdf (4 pages, 124503 bytes).
+Output written on tacl2021v1-template.pdf (4 pages, 121736 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
+ 111 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

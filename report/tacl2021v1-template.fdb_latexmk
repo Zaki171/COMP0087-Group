@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex tacl2021v1-template"] 1709809519 "tacl2021v1-template.aux" "tacl2021v1-template.bbl" "tacl2021v1-template" 1709809519 0
+["bibtex tacl2021v1-template"] 1710471559 "tacl2021v1-template.aux" "tacl2021v1-template.bbl" "tacl2021v1-template" 1710471562 2
+  "./tacl2021.bib" 1709809576 2015 a1fc68852f99bf8a9cd5fc0a257457f9 ""
   "acl_natbib.bst" 0 -1 0 ""
-  "tacl2021.bib" 0 -1 0 ""
-  "tacl2021v1-template.aux" 1709809519 1493 721343d82112c54a2c982085d1530673 "pdflatex"
+  "tacl2021v1-template.aux" 1710471561 1493 2df4da8cb7d81c42ef7993016816c4f5 "pdflatex"
   (generated)
   "tacl2021v1-template.bbl"
   "tacl2021v1-template.blg"
   (rewritten before read)
-["pdflatex"] 1709809518 "c:/Users/zakit/Documents/COMP0087 CW/COMP0087-Group/report/tacl2021v1-template.tex" "tacl2021v1-template.pdf" "tacl2021v1-template" 1709809519 0
+["pdflatex"] 1710471561 "c:/Users/zakit/Documents/COMP0087 CW/COMP0087-Group/report/tacl2021v1-template.tex" "tacl2021v1-template.pdf" "tacl2021v1-template" 1710471562 0
   "C:/Users/zakit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1709809514 82666 6ae954049cbd801ff08c004e318ae5a8 ""
   "C:/Users/zakit/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698873634 24203716 0c25e86726e6a330119775ae50faf83c ""
   "C:/Users/zakit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -110,11 +110,11 @@
   "C:/Users/zakit/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1686255640 4545 9f5ea23ab1c91476c42749893f790666 ""
   "C:/Users/zakit/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/zakit/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/zakit/Documents/COMP0087 CW/COMP0087-Group/report/tacl2021v1-template.tex" 1709809506 26686 b40060f7236dd581cf9efc6edce9b01a ""
-  "tacl2021v1-template.aux" 1709809519 1493 721343d82112c54a2c982085d1530673 "pdflatex"
-  "tacl2021v1-template.bbl" 0 -1 0 "bibtex tacl2021v1-template"
-  "tacl2021v1-template.out" 1709809519 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "tacl2021v1-template.tex" 1709809506 26686 b40060f7236dd581cf9efc6edce9b01a ""
+  "c:/Users/zakit/Documents/COMP0087 CW/COMP0087-Group/report/tacl2021v1-template.tex" 1710471557 26429 8cdfe7f9aaa03992653db1032def8c6b ""
+  "tacl2021v1-template.aux" 1710471561 1493 2df4da8cb7d81c42ef7993016816c4f5 "pdflatex"
+  "tacl2021v1-template.bbl" 1710471559 0 d41d8cd98f00b204e9800998ecf8427e "bibtex tacl2021v1-template"
+  "tacl2021v1-template.out" 1710471561 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "tacl2021v1-template.tex" 1710471557 26429 8cdfe7f9aaa03992653db1032def8c6b ""
   "tacl2021v1.sty" 1709809500 21036 df14819b6e4f32ee9eec66154b42fdaf ""
   (generated)
   "tacl2021v1-template.aux"
