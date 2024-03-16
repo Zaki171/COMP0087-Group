@@ -19,8 +19,8 @@ print("Device being used:", device)
 output_dir_model = "new_test/trained_model"
 output_dir_tokenizer = "new_test/tokenizer"
 
-local_dataset = load_from_disk("data/100_per_task")
-local_dataset['test'] = local_dataset['test'].select(range(100))
+local_dataset = load_from_disk("data/1000_per_task")
+local_dataset['test'] = local_dataset['test'].select(range(1000))
 
 
 
