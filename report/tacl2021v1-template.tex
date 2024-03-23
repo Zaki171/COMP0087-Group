@@ -195,6 +195,8 @@ Specifically:
 \else
 % Submission-specific rules
 \section{Introduction}
+
+\subsection{Motivation}
 This investigation provides a comparative evaluation of two recent innovations in 
 the field of LLM improvement - In-Context Learning and Instruction Tuning. Instruction Tuning 
 is a unique type of fine-tuning strategy that revolves around framing prompts as instructions, providing 
@@ -202,10 +204,27 @@ LLMs with specific information on how to proceed with the given task. In compari
 is an exciting phenomena first discovered in the original GPT3 paper that aims to help models adapt 
 to specific tasks by providing it with labelled examples preceding the task. Evidence 
 from surrounding literature suggests that both approaches are versatile in improving model performance. However,
-the approaches are significantly different from one another, with the most noticeable contrast being 
-the absence of weight-based training in ICL. While this does make ICL generally much more computationally feasible, 
-our current analysis suggests that instruction-tuning remains a superior technique for domain-specific tasks, 
-providing stronger adaptability to perform such tasks effectively.
+the approaches are significantly different from one another (e.g., ICL does not feature any 
+weight-based training). Thus, this investigation seeks to assess each technique against the other
+across a range of domain-specific tasks to establish the optimal approach for a given scenario.
+
+
+\subsection{Research Objectives}
+The study aims to meet the following objectives:
+\begin{enumerate}
+  \item \textbf{Investigate Instruction-Tuning and In-Context Learning.} Explore the strategies behind in-context learning and instruction tuning as viable methods for model adaptation. 
+  \item \textbf{Apply Instruction-Tuning and In-Context Learning to domain-specific tasks.} Perform these tuning techniques across domain-specific tasks with various models.
+  \item \textbf{Assess these techniques against each other}. Establish how in-context learning compares to instruction tuning when applied to domain-specific tasks and conclude with the optimal approach for an end-user.
+\end{enumerate}
+
+\subsection{Research Experiments}
+To achieve the above objectives, the following research experiments were carried out:
+\begin{enumerate}
+  \item \textbf{Experiment 1 - Apply Instruction-Tuning}\\Apply instruction tuning to different models (GPT2, Mistral) according to various generalized NLP datasets (Alpaca/Natural Instructions).
+  \item \textbf{Experiment 2 - Apply In-Context Learning}\\Experiment with in-context learning with the same models, exploring aspects including the number of demonstrations and selection technique 
+  on performance. 
+  \item \textbf{Assess In-Context Learning and Instruction-Tuning}\\Evaluate both techniques across various datasets according to specific criteria such as BLEU and BERTScore. 
+\end{enumerate}
 
 
 \fi
