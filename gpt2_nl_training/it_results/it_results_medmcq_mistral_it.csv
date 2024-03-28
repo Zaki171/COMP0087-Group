@@ -1,0 +1,2 @@
+num_samples,bert_score,bleu_score,accuracy
+100,0.8911599516868591,0.19679786524349566,0.17

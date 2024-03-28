@@ -34,7 +34,7 @@ model = GPT2LMHeadModel.from_pretrained('gpt2')
 
 
 def remove_long_samples(example):
-    inp = f"{example['definition']}\n ### Inputs: {example['inputs']} \n ### Targets: {example['targets']}"
+    inp = f"### Task: {example['definition']}\n ### Inputs: {example['inputs']} \n ### Targets: {example['targets']}"
     encoded_inp = tokenizer.encode(inp, return_tensors = 'pt')
     if encoded_inp.size(1) <= MAX_LENGTH:
         return True
